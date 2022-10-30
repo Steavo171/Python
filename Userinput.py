@@ -2,14 +2,9 @@ x=['ss',3.9,3]
 for i in x:
     print(i)
 
-#############################################################################
-
-for i in range(1,6):
-    for j in range(1,6):
-        print("#",end =" ")
-        
 ############################################################################
-a=int(input("Enter a  number"))
+a=int(input("Enter a  number"))         #taking input from the user
 b=int(input("Enter another number"))
 print(a+b)
 
+#Code by Steavo Babu
