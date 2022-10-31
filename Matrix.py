@@ -1,4 +1,4 @@
-#to perform operations on matrix
+#to perform operations on matrix using numpy 
 
 from numpy import *         #importing numpy module
 arr=array ([  [1,2,3],[4,5,6]  ])       #creating array from numpy
